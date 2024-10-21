@@ -64,7 +64,7 @@ int main()
     //     cout << endl;
     // }
 
-    // directed weighted graph
+    // directed weighted graph 
     
     int vertex, edge;
     cin >> vertex >> edge;
