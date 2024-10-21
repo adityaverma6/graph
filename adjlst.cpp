@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    // //uned undirectd graph
+    // //unwieghted undirectd graph
     // int vortex,edge;
     // cin >> vortex >> edge;
     // vector<int>adjlist[vortex];
